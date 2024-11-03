@@ -17,7 +17,7 @@ As specified, the business code has been separated from the web layer in accorda
 This project is a finalization of what was done during the first two TPs, culminating in a Car Rental service.
 Inserts however can only be done through direct modification of the code the Application file though :
 
-add GitHub link there
+https://github.com/MatthRama/Project_OOS/blob/master/src/main/java/com/example/TP1/Tp1Application.java
 
 Beware, as sometimes, the gRPC server may start tomcat on the port used by the Rental Service if it is deemed as available on launch.
 Therefore, the Rental service should be launched first, then the rest of the services can be started with the terminal.
@@ -36,5 +36,14 @@ https://github.com/MatthRama/Project_OOS/blob/master/assets/launch-client.png
 
 https://github.com/MatthRama/Project_OOS/blob/master/myServiceInterface/src/main/proto/myService.proto
 
-add GitHub link for REST
+
+https://github.com/MatthRama/Project_OOS/blob/master/src/test/java/com/example/TP1/Tp1ApplicationTests.java
+
+https://github.com/MatthRama/Project_OOS/blob/master/myServiceClient/src/test/java/com/example/myServiceClient/MyServiceClientApplicationTests.java
+
+https://github.com/MatthRama/Project_OOS/blob/master/myServiceInterface/src/test/java/com/example/myServiceInterface/MyServiceInterfaceApplicationTests.java
+
+https://github.com/MatthRama/Project_OOS/blob/master/myServiceServer/src/test/java/com/example/myServiceServer/MyServiceServerApplicationTests.java
+
+
 
