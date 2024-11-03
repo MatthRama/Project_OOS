@@ -8,7 +8,7 @@ Java 17.
 
 The code and databases of the Rental service will be present in the main src folder, more specifically in files such as Cars.java :
 
-add GitHub link there
+https://github.com/MatthRama/Project_OOS/blob/master/src/main/java/com/example/TP1/caracteristics/Cars.java
 
 As specified, the business code has been separated from the web layer in accordance to the Java Coding rules.
 
