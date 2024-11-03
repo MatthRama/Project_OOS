@@ -34,7 +34,7 @@ https://github.com/MatthRama/Project_OOS/blob/master/assets/launch-client.png
 
 ## Implementation of gRPC and REST :
 
-add GitHub link for gRPC
+https://github.com/MatthRama/Project_OOS/blob/master/myServiceInterface/src/main/proto/myService.proto
 
 add GitHub link for REST
 
