@@ -29,6 +29,7 @@ Therefore, the Rental service should be launched first, then the rest of the ser
 ## Services Launch
 
 https://github.com/MatthRama/Project_OOS/blob/master/assets/launch-server.png
+
 https://github.com/MatthRama/Project_OOS/blob/master/assets/launch-client.png
 
 ## Implementation of gRPC and REST :
