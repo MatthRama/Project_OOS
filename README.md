@@ -24,7 +24,7 @@ Therefore, the Rental service should be launched first, then the rest of the ser
 
 ## OpenAPI documentation
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+[![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")](https://github.com/MatthRama/Project_OOS/blob/master/assets/openapi-doc.png)
 
 ## Implementation of gRPC and REST :
 
